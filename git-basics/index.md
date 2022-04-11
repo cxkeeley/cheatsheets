@@ -29,7 +29,7 @@ Adds the following file to the staging area
 `git add .`
 Adds all the files to the staging area
 
-`git commit -m "<your-message"`
+`git commit -m "<your-message>"`
 Commits the staged file of the repository
 
 `git remote add origin <your-GitHub-repo-link>`

@@ -20,7 +20,7 @@ console.log(newLength) // ['Apple','Banana','Orange']
 ### `.findLastIndex()`
 ### `.splice()`
 
-splice has 2 mandatory arguments [index, no of elements to be removed]
+splice has 2 mandatory arguments [index, no. of elements to be removed]
 
 splice also returns the list of the removed elements
 
