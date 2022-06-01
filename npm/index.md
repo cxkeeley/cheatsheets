@@ -18,7 +18,7 @@ NPM is a package manager for Node.JS (JavaScript Runtime Environment). npm is wr
 ## `npm root -g` 
 Shows all the global modules installed on your computer
 
-##  Dev Dependencies `npm install <package-name> --save-dev`
+## Dev Dependencies `npm install <package-name> --save-dev`
 
 ## Peer Dependencies 
 
